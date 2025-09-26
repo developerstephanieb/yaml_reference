@@ -12,29 +12,15 @@ yaml_reference/
 │   ├── 03_multi_line_strings.md
 │   ├── 04_collections.md
 │   ├── 05_references_and_aliases.md
-│   ├── 06_tags_and_types.md
-│   ├── 07_.md
-│   ├── 08_.md
-│   ├── 09_.md
-│   ├── 10_.md
-│   ├── 11_.md
-│   └── 12_.md
+│   └── 06_tags_and_types.md
 ├── 02_schemas/
-│   ├── configuration_files/
+│   ├── github_actions/
 │   ├── docker_compose/
 │   ├── kubernetes/
-│   ├── github_actions/
 │   ├── ansible/
-│   └── 
-├── 04_tools_and_libraries/
-│   ├── 
-│   ├── 
-│   ├── 
-│   ├── 
-│   └── 
-├── 05_assets/
-│   ├── 
-│   ├── 
+│   └── configuration_files/
+├── 03_tools_and_libraries/
+│   ├── linters_and_formatters.md
 │   └── 
 ├── .gitignore 
 └── README.md

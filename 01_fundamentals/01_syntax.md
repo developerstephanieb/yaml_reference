@@ -37,7 +37,7 @@ is_employed: true
 
 ## Indentation and Structure
 
-YAML uses indentation to define the structure of the data. Nesting is achieved by indenting a block of key-value pairs under a parent key. The standard convention is to use two spaces for each level of indentation.
+YAML uses indentation (with spaces, not tabs) to define the structure of the data. Nesting is achieved by indenting a block of key-value pairs under a parent key. The standard convention is to use two spaces for each level of indentation.
 
 ```yaml
 # 'address' is a parent key.

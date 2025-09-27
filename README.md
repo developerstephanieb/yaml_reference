@@ -12,7 +12,7 @@ yaml_reference/
 │   ├── 03_collections.md
 │   ├── 04_references_and_aliases.md
 │   └── 05_tags_and_types.md
-├── 02_schemas/
+├── 02_use_cases/
 │   ├── github_actions/
 │   ├── docker_compose/
 │   ├── kubernetes/
